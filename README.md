@@ -12,5 +12,5 @@
 
 -Also integrate Infracstructure as Code to create ECR, ECS, and deploy on it with GitHub Action
 
-![Architecture](https://drive.google.com/file/d/1MbSx4_AXHICUeczJg2ESBq7wfvqGjG5R/view?usp=sharing)
+![Architecture]([https://drive.google.com/file/d/1MbSx4_AXHICUeczJg2ESBq7wfvqGjG5R/view?usp=sharing](https://ibb.co/smFY2yy))
 
