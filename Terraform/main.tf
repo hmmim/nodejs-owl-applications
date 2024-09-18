@@ -24,13 +24,13 @@ terraform {
 # }
 
 module "ecrRepo" {
-  source = "./modules/ecr"
+  source = "./APP/modules/ecr"
 
   ecr_repo_name = local.ecr_repo_name
 }
 
 module "ecsCluster" {
-  source = "./modules/ecs"
+  source = "./APP/modules/ecr/ecs"
 
   demo_app_cluster_name = local.demo_app_cluster_name
   availability_zones    = local.availability_zones
