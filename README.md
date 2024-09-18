@@ -14,4 +14,4 @@ sss
 
 ![Architecture](https://i.ibb.co/HFr8Vnn/architecture.jpg)
 
-
+![Architecture](https://i.ibb.co/h9cWXvc/z5844708559215-8530e605fa4eb608da045a7df13c483f.jpg)
