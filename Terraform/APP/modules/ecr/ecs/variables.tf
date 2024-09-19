@@ -1,49 +1,49 @@
 variable "demo_app_cluster_name" {
-  description = "Tên của ECS cluster cho ứng dụng demo"
+  description = "Name of ECS cluster for demo application"
   type        = string
 }
 
 variable "availability_zones" {
-  description = "Danh sách các availability zones"
+  description = "List of availability zones"
   type        = list(string)
 }
 
 variable "demo_app_task_famliy" {
-  description = "Task family cho ứng dụng demo"
+  description = "Task family for demo application"
   type        = string
 }
 
 variable "ecr_repo_url" {
-  description = "URL của ECR repository"
+  description = "URL of ECR repository"
   type        = string
 }
 
 variable "container_port" {
-  description = "Cổng mà container lắng nghe"
+  description = "Port that container listen"
   type        = number
 }
 
 variable "demo_app_task_name" {
-  description = "Tên của task ứng dụng demo"
+  description = "Name of task for demo application"
   type        = string
 }
 
 variable "ecs_task_execution_role_name" {
-  description = "Tên của ECS task execution role"
+  description = "Name of ECS task execution role"
   type        = string
 }
 
 variable "application_load_balancer_name" {
-  description = "Tên của application load balancer"
+  description = "Name of application load balancer"
   type        = string
 }
 
 variable "target_group_name" {
-  description = "Tên của target group"
+  description = "Name of target group"
   type        = string
 }
 
 variable "demo_app_service_name" {
-  description = "Tên của dịch vụ ứng dụng demo"
+  description = "Name of for demo application"
   type        = string
 }
