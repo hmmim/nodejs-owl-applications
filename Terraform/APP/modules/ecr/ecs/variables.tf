@@ -35,7 +35,7 @@ variable "ecs_task_execution_role_name" {
 
 variable "application_load_balancer_name" {
   description = "Name of application load balancer"
-  type        = number
+  type        = string
 }
 
 variable "target_group_name" {
