@@ -1,17 +1,17 @@
 {
     "name": "devops-intern-assignment",
     "version": "1.0.0",
-    "description": "We think infrastructure is best represented as code, and provisioning of resources should be automated as much as possible.",
+    "description": "Khanh yeu Phuong Nghi vcl ",
     "main": "index.js",
     "scripts": {
         "test": "jest",
-        "start": "node index.js",   
+        "start": "node index.js",
         "format:check": "prettier --check .",
         "format:write": "prettier --write .",
         "lint:check": "eslint .",
         "lint:fix": "eslint --fix ."
     },
-    "author": "Huy dep trai",
+    "author": "anh Huy dep trai",
     "license": "ISC",
     "dependencies": {
         "dotenv": "^16.3.1",

@@ -5,3 +5,4 @@ sudo yum install httpd -y
 sudo systemctl start httpd
 sudo systemctl enable httpd
 #chkconfig httpd on
+sudo yum meo -y #"application"

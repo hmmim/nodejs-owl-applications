@@ -10,12 +10,14 @@ terraform {
   }
 
   required_providers {
-    aws = {
+    aws = { 
       source  = "hashicorp/aws"
       version = "~> 4.0"
     }
   }
 }
+#configure Jenkins 
+#
 
 # module "tf-state" {
 #   source      = "./modules/tf-state"
@@ -44,4 +46,7 @@ module "ecsCluster" {
   application_load_balancer_name = local.application_load_balancer_name
   target_group_name              = local.target_group_name
   demo_app_service_name          = local.demo_app_service_name
+}
+resource " " " "{
+
 }
