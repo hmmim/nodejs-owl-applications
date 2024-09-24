@@ -1,4 +1,4 @@
-Pham Ho Phuong Nghi is the best girl in Viet Nam and Khanh want to have the eldest with her 
+Welcome to my project, I'm Cao Minh Huy, I'm currently student of Artificial Intelligent at MIT. I'm very proud to introduce you my best project.
 
 
 -Configure Jenkins 
