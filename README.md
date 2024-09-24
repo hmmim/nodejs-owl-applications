@@ -1,4 +1,4 @@
-Welcome to my project, I'm Trần Vinh Khánh, I'm currently student of Artificial Intelligent at MIT. I'm very proud to introduce you my best project. and in the near future, I will be Phạm Hồ Phương Nghi 's husband because I have to take my responsibility for my mistake with her. My eldest is a son and now I intend to 
+Welcome to my project, I'm Trần Vinh Khánh, I'm currently student of Artificial Intelligent at MIT. I'm very proud to introduce you my best project. and in the near future, I will be Phạm Hồ Phương Nghi 's husband because I have to take my responsibility for my mistake with her. My eldest is a son and now I intend to name the baby is ..... so can someone suggest for me to suit with parent name
 
 
 -Configure Jenkins 
