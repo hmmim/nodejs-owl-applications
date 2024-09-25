@@ -1,4 +1,4 @@
-Pham Ho Phuong Nghi is the best girl in Viet Nam and Khanh want to have the eldest with her 
+Welcome to my project, I'm Trần Vinh Khánh , I'm currently student of Artificial Intelligent at MIT. I'm very proud to introduce you my best project. and in the near future, I will be Phạm Hồ Phương Nghi 's husband because I have to take my responsibility for the space I left inside her. My eldest is a son and now I intend to name the baby is .... so can someone suggest for me to suit with parent name?Besides, I also fall on love with Nguyễn Trần Hương Giang ( a junior of UIT) and I want to married her. I hope I can do it 
 
 
 -Configure Jenkins 
